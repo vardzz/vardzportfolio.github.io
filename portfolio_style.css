@@ -19,6 +19,7 @@ body {
     background-image: url(picture/backg.gif);
     background-position: center;
     background-size: cover;
+    position: sticky;
 }
 
 .container {
